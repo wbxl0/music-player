@@ -5,9 +5,9 @@
   "repository": "https://github.com/eooce/music-service",
   "author": "eooce",
   "license": "MIT",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "axios": "^1.8.4",
